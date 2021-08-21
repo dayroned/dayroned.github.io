@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/dayron
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://dayron.io
+  * I am dayron (https://keybase.io/dayron) on keybase.
+  * I have a public key ASDYEXZ059djHshtcFRCVs-k9F5fZFN1jxJ_ygSxnwMQTQo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120d8117674e7d7631ec86d70544256cfa4f45e5f6453758f127fca04b19f03104d0a",
+      "host": "keybase.io",
+      "kid": "0120d8117674e7d7631ec86d70544256cfa4f45e5f6453758f127fca04b19f03104d0a",
+      "uid": "0e853e710318b02b7865aa41655e7d19",
+      "username": "dayron"
+    },
+    "merkle_root": {
+      "ctime": 1600324140,
+      "hash": "3ca1a42a4a48e8fb0af2de2edadeb7c8780ed5da779980400aa119265ea963784b0a8b14480b7b7184d165617ffb562a643ad7b453909e74840c7607a835e550",
+      "hash_meta": "c60d50b36265eaa41368212be0c8a783f42eedd23e7aaac11ece8666c5e30252",
+      "seqno": 17592267
+    },
+    "service": {
+      "entropy": "FEC/9T5OfIrnRN3S9XzhpglN",
+      "hostname": "dayron.io",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "5.5.0"
+  },
+  "ctime": 1600324196,
+  "expire_in": 504576000,
+  "prev": "5d33a035b6739f4f535d0a1d8f4e4af2495df52dec355f85e760a884625c098f",
+  "seqno": 20,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEg2BF2dOfXYx7IbXBUQlbPpPReX2RTdY8Sf8oEsZ8DEE0Kp3BheWxvYWTESpcCFMQgXTOgNbZzn09TXQodj05K8kld9S3sNV+F52CohGJcCY/EIHFw0CQfdWbyK2cNG3XtmL7hbnemAIi3LqduErzuawrhAgHCo3NpZ8RAme0o5dsoYos75auzH/1JoVemw9NmmvWm5kn8pO0023lBIknl/WEaC/QjyCl7Wmm4rbNC7+Or97+nbZiA1ap6AqhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIAneVJxoUTBroi5Q2/OBtEXMQFuaFt4MorZyJSEb02HUo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/dayron
+
+==================================================================
