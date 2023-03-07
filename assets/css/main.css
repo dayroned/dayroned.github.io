@@ -237,7 +237,7 @@ a:hover {
   font-weight: 400;
 }
 
-.icon > .label {
+.icon>.label {
   display: none;
 }
 
